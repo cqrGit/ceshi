@@ -13,7 +13,7 @@ public static void main(String[] args) {
 public void aa() {
 	
 }
-public void aa() {
+public void bb() {
 	
 }
 }
